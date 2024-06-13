@@ -28,6 +28,9 @@ App governance also provides the ability to either [create policies](https://lea
 
 
 ### 3. Detect and remediate app threats
+App governance generates alerts using various mechanisms
+        a) policy based alerts triggered either by predefined policies or user-defined policies [get started with Alerts page](https://learn.microsoft.com/en-us/defender-cloud-apps/app-governance-detect-remediate-get-started).
+        b) built-in detection policies that are not visible in the portal to the admins, frequently driven by machine-learning-driven detection rules. [Some of the examples of the and how to investigate them](https://learn.microsoft.com/en-us/defender-cloud-apps/app-governance-anomaly-detection-alerts). 
 ### 4. Secure apps and other assets
 
 ---
